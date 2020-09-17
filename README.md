@@ -26,7 +26,10 @@ The system will get the array of user answers, transform it into array of object
 ![Screenshot](./Assets/team.png) 
 ## Installation:
 
-This App uses node and npm. It requires node.js to be installed locally.
+This App uses node and npm. It requires node.js to be installed locally. and these commnds are necessary for the App to run correctly:
+  `$ npm install` 
+  `$ npm install inquirer`
+  `$ npm install jest`
 ## Usage:
 
 This Node CLI app can be used to quickly generate a neatly formatted webpage of ID cards containing employee summaries of the personnel that outfit your software team. The app generates a HTML and CSS file that will be overwritten with each use for convenience.
