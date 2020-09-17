@@ -22,7 +22,7 @@ When the application starts the user will be prompted to input the details of a 
 
 The system will get the array of user answers, transform it into array of objects of respective classes (Manager, Engineer or Intern), and then generate an html based on such team array.
 
-![Screenshot](./develop/Generated-Team.jpg) 
+![Screenshot](./Team.jpg) 
 ## Installation:
 
 This App uses node and npm. It requires node.js to be installed locally. and these commnds are necessary for the App to run correctly:
